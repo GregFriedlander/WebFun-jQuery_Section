@@ -1,0 +1,46 @@
+img{
+    width: 200px;
+    height: 200px;
+    /* border-style: solid;
+    border-color: black; */
+}
+body{
+    width: 1000px;
+    background-color: black
+}
+h1{
+    text-align: center;
+    width: 800px;
+    color: white;
+}
+h3{
+    text-align: center;
+    width: 800px;
+    color: white;
+}
+button{
+    height: 35px;
+    width: 119px;
+    font-size: 19px;
+    border-radius: 29px;
+    border-color: black;
+    border-width: 1px;
+    box-shadow: 4px 4px 4px 3px black;
+    background: linear-gradient(black,darkgray);
+    color: white;
+}
+#holder{
+    height: 430px;
+}
+button{
+    display: block;
+    margin-top: 10px;
+}
+div{
+    display: inline-block;
+}
+.place{
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+}

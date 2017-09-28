@@ -1,0 +1,14 @@
+table {
+    width: 800px;
+    text-align: left;
+    border: 1px solid black;
+    margin-bottom: 100px;
+}
+form {
+    text-align: right;
+    width: 300px;
+}
+h2 {
+    border-bottom-style: solid;
+    width: 400px;
+}

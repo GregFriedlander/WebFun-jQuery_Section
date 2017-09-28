@@ -1,0 +1,37 @@
+.inline-block{
+    display: inline-block;
+}
+#firstdiv{
+
+}
+#thirddiv img{
+    width: 400px;
+    height: 400px;
+}
+#monkey{
+    display: none;
+}
+#chick{
+    display: none;
+    width: 400px;
+    height: 400px;
+}
+.none{
+    display: none;
+    width: 400px;
+    height: 400px;
+}
+#balloons{
+    width: 400px;
+    height: 400px;
+}
+.big{
+    color:#3A0854;
+    font-size: 60px;
+}
+#samson p{
+    display: none;
+}
+#hats{
+    
+}
